@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="textBtnSend"        >送信</string>
+    <string name="textTextLabelInput" >入力</string>
+    <string name="textTextLabelOutput">出力</string>
+    <string name="textTextInput"      >Input</string>
+    <string name="textTextOutput"     >Output</string>
+</resources>
